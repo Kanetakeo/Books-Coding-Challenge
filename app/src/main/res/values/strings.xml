@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Search</string>
+    <string name="menu_search">Search</string>
+    <string name="book_detail">%1$s \n%2$s</string>
+    <string name="book_detail_title">Title: %1$s</string>
+    <string name="book_detail_authors">Authors: %1$s</string>
+    <string name="book_detail_description">Description: %1$s</string>
+    <string name="book_detail_publisher">Publisher: %1$s</string>
+</resources>
